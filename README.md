@@ -8,4 +8,4 @@
 
 ## GitHub statistics
 
-![](https://github-readme-stats.vercel.app/api?username=daniktl&count_private=true&theme=dark&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=danoctua&count_private=true&theme=dark&hide_title=true)
